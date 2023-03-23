@@ -1,4 +1,4 @@
-# IntroToGatsby
+# TestingGatsby
 
 Gatsby is an open-source web development framework that allows developers to create fast and highly performant websites and applications. It is built on top of React, a popular JavaScript library for building user interfaces, and uses a modern web development stack that includes GraphQL, webpack, and modern JavaScript.
 
